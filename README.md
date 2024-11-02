@@ -9,5 +9,4 @@ NASA Jet Propulsion Laboratory 329G
 ## References
 
 - **NASA LP DAAC**. (2015). *MCD12C1 MODIS/Terra+Aqua Land Cover Type Yearly L3 Global 0.05Deg CMG*. NASA LP DAAC. https://doi.org/10.5067/MODIS/MCD12C1.006
-- **Friedl, M., & Sulla-Menashe, D.** (2015). *MODIS/Terra+Aqua Land Cover Type Yearly L3 Global 0.05Deg CMG*. NASA LP DAAC
-- **NASA LP DAAC**. (2022). *MODIS/Terra+Aqua Land Cover Type Yearly L3 Global 0.05Deg CMG V061*. NASA EOSDIS Land Processes DAAC. https://doi.org/10.5067/MODIS/MCD12C1.061
+- **Friedl, M., & Sulla-Menashe, D.** (2015). *MODIS/Terra+Aqua Land Cover Type Yearly L3 Global 0.05Deg CMG*. NASA LP DAAC. https://doi.org/10.5067/MODIS/MCD12C1.006
