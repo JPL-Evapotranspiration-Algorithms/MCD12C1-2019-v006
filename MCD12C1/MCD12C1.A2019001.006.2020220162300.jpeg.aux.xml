@@ -1,0 +1,27 @@
+<PAMDataset>
+  <SRS dataAxisToSRSAxisMapping="1,2">GEOGCS["unknown",DATUM["Unknown based on Clarke 1866 ellipsoid",SPHEROID["Clarke 1866",6378206.4,294.978698213898]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Longitude",EAST],AXIS["Latitude",NORTH]]</SRS>
+  <GeoTransform> -1.8000000000000000e+02,  5.0000000000000003e-02,  0.0000000000000000e+00,  9.0000000000000000e+01,  0.0000000000000000e+00, -5.0000000000000003e-02</GeoTransform>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <NoDataValue>2.55000000000000E+02</NoDataValue>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <NoDataValue>2.55000000000000E+02</NoDataValue>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <NoDataValue>2.55000000000000E+02</NoDataValue>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
