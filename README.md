@@ -6,6 +6,20 @@ This package generates rasters of the MODIS/Terra+Aqua Land Cover Type CMG Yearl
 [gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>
 NASA Jet Propulsion Laboratory 329G
 
+## Installation
+
+```
+pip install MCD12C1-2019-v006
+```
+
+## Usage
+
+```
+from MCD12C1_2019_v006 import load_MCD12C1_raster
+
+IGBP = load_MCD12C1_raster()
+```
+
 ## References
 
 - **NASA LP DAAC**. (2015). *MCD12C1 MODIS/Terra+Aqua Land Cover Type Yearly L3 Global 0.05Deg CMG*. NASA LP DAAC. https://doi.org/10.5067/MODIS/MCD12C1.006
